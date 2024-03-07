@@ -1,5 +1,4 @@
-Привет! Я Лилия, люблю узнавать разные виды деятельности) так что здесь выкладываю маленькие пет-проекты с курсов. 
-На самом деле я аналитик с разными тех-скиллами, которые каждый день практикую ;) 
-Недавно начала литкодить, буду обновлять файл по мере решения :)
+Hi! I am Lily, kind of geek 🤓 but rarely do smth until the very end, althought everything is endless haah gotcha 
+Well, welcome? 
 
-чуть больше можно посмотреть здесь https://drive.google.com/drive/folders/1Bz5R2PpCQQoUMiq-xkIiZ_ObPXKMjaK7?usp=sharing
+PS i am more into data analytics and actually I have much more projects! from school 21 for ex, or DS from university, or C/C++ from Stepik 
