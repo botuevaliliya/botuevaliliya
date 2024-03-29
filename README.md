@@ -1,4 +1,4 @@
-Hi! I am Lily, kind of geek 🤓 but rarely do smth until the very end, althought almost everything is endless haah gotcha 
+Hi! I am Lily, kind of geek 🤓 though I am a generalist, as I am interested in a wide range of fields and try to build skills in all of 'em
 Well, welcome? 
 
-PS i am more into data analytics and actually I have much more projects! from school 21 for ex, or DS from university, or C/C++ from Stepik 
+PS actually T-specialist, i love data analytics
