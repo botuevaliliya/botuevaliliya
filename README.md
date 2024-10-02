@@ -1,4 +1,5 @@
 Hi! I am Lily, kind of geek 🤓 though I am a generalist, as I am interested in a wide range of fields and try to build skills in all of 'em
+
 PS actually T-specialist, i love data analysis 
 
 But currently I am trying to transition to PM role and am building a side project (website where users can give a feedback or just leave positive words to another user, all feedback received will be displayed in user's wall)
